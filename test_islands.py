@@ -1,7 +1,5 @@
 from islands_counter import islands_counter
 
-
-
 def test_1():
     # Inputs
     M = 9
